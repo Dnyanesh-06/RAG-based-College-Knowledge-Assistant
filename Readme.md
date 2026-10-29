@@ -1,4 +1,4 @@
-College Knowledge Assistant (Retrieval-first RAG)
+College Knowledge Assistant (RAG)
 What it does
 - Accepts at least five PDF/TXT files.
 - Extracts text, splits it into chunks, embeds chunks, and indexes them with FAISS.
